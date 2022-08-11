@@ -1,0 +1,95 @@
+/* 水平间距 */
+/* 水平间距 */
+.container.data-v-5008080e {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 700rpx;
+  max-width: 700px;
+  margin: 0 auto;
+}
+.container .inputPlateNumber.data-v-5008080e {
+  background: white;
+  width: 100%;
+  border-radius: 8px;
+}
+.container .inputPlateNumber .title.data-v-5008080e {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  border-bottom: 1px solid #eee;
+}
+.container .inputPlateNumber .content.data-v-5008080e {
+  padding: 10px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  font-size: 10px;
+  color: rgba(0, 0, 0, 0.6);
+}
+.container .inputPlateNumber .content .iconScan.data-v-5008080e {
+  width: 40px;
+  height: 40px;
+  background: #f00;
+  border-radius: 20px;
+  margin-right: 10px;
+}
+.container .inputPlateNumber .content .inputNumberContainer.data-v-5008080e {
+  flex-grow: 1;
+}
+.container .inputPlateNumber .content .inputNumber.data-v-5008080e {
+  font-size: 10px;
+  margin-top: 6px;
+}
+.container .inputPlateNumber .content .scan.data-v-5008080e {
+  width: 20px;
+  height: 20px;
+  background: #f00;
+  border-radius: 20px;
+  margin-right: 10px;
+}
+.container .searchHistory.data-v-5008080e {
+  margin-top: 10px;
+  border-radius: 8px;
+  width: 650rpx;
+  max-width: 700px;
+  background: white;
+  padding: 16px;
+}
+.container .searchHistory .title.data-v-5008080e {
+  font-size: 12px;
+}
+.container .searchHistory .plateNumber.data-v-5008080e {
+  padding: 10px 0;
+  margin-top: 10px;
+  border-bottom: 1px solid #eee;
+}
+.container .searchHistory .searchInPool.data-v-5008080e {
+  padding-top: 10px;
+  color: blue;
+  text-align: center;
+  cursor: pointer;
+}
+.container .footer.data-v-5008080e {
+  margin: 10px 0;
+  display: flex;
+}
+.container .footer .cancelButton.data-v-5008080e {
+  background-color: #eee;
+  font-weight: 500;
+  color: rgba(0, 0, 0, 0.7);
+}
+.container .footer .cancelButton.data-v-5008080e:after {
+  border: none;
+}
+.container .footer .nextButton.data-v-5008080e {
+  background-color: grey;
+  color: white;
+  margin-left: 10px;
+}
+.container .footer .nextButton.data-v-5008080e:after {
+  border: none;
+}
