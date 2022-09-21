@@ -1,0 +1,22 @@
+{
+  "name": "uni-app-demo",
+  "version": "1.0.0",
+  "description": "使用的是uni-app  \r ui是uni-ui\r 前端框架vue 3",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@codeup.aliyun.com:62d9672ade1705ebb4f32edb/zhuyue6/uni-app-demo.git"
+  },
+  "author": "zhuyue",
+  "license": "ISC",
+  "devDependencies": {
+    "@dcloudio/types": "^3.0.15",
+    "@vue/tsconfig": "^0.1.3"
+  },
+  "dependencies": {
+    "pinia": "^2.0.22"
+  }
+}
