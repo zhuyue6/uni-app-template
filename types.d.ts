@@ -1,5 +1,6 @@
+
 declare module '*.vue' {
-	export default {
-		
+	export default class {
+
 	}
 }

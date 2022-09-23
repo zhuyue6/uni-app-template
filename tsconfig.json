@@ -12,8 +12,9 @@
     "allowJs": true,
     "baseUrl": ".",
     "paths": {
-      "@/*": ["./*"]
+      "@/*": ["./src/*"]
     }
   },
-  "exclude": ["node_modules", "uni_modules", "unpackage", "static"]
+  "include": ["./src", "type.d.ts"],
+  "exclude": ["node_modules", "uni_modules", "unpackage"]
 }
